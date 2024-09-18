@@ -8,3 +8,8 @@ This excel file contains a variety of information about the customers who buy co
 - Readability was improved by making visual adjustments and finalised by adding various parameters.
 ## Dashboard
 ![](https://github.com/ogtknscn/Coffee-Shop-Dashboard/blob/main/Coffee_Order_Project/Dashboard_SS.png?raw=true)
+Various tables can be extracted according to the following parameters.
+- Date
+- Roast Type
+- Size
+- Loyalty Card
