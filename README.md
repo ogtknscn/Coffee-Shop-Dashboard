@@ -7,4 +7,4 @@ Coffee Shop Dashboard is an excel project of showing
 - Countries
 and more...
 ## Dashboard
-![](https://github.com/ogtknscn/Coffee-Shop-Dashboard/main/Coffee_Order_Project/Dashboard_SS.png?raw=true)
+![](https://github.com/ogtknscn/Coffee-Shop-Dashboard/blob/main/Coffee_Order_Project/Dashboard_SS.png?raw=true)
